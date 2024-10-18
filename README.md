@@ -2,7 +2,7 @@
 
 A simple distributed application running across multiple Docker containers.
 
-Trying this out this is git command to see if it works.
+Trying out this git command to see if it works.
 
 - git status
 Git Status: This command shows the current state of your working directory and staging area. It will tell you if there are any modified files, untracked files, or staged changes.
