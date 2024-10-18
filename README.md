@@ -2,7 +2,20 @@
 
 A simple distributed application running across multiple Docker containers.
 
-Tryhing out this is git command to see if it works.
+Trying this out this is git command to see if it works.
+
+- git status
+Git Status: This command shows the current state of your working directory and staging area. It will tell you if there are any modified files, untracked files, or staged changes.
+
+- git add .
+Git Add: This command adds files to the staging area. Once a file is staged, it's ready to be committed.
+
+- git commit -m "Your commit message here"
+Git Commit: This command commits the staged changes to the local repository. You'll need to provide a commit message describing the changes.
+
+- git push 
+Replace <remote> with the name of your remote repository (usually "origin") and <branch> with the name of the branch you want to push to.
+
 
 ## Getting started
 
